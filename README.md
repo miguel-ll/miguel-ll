@@ -11,7 +11,7 @@ I'm a Computer Engineering student, translator, and game developer. In my free t
 - [Stephen](https://github.com/miguel-ll/stephen): Software to help people with motor disorders to communicate.
 - [calgen](https://github.com/miguel-ll/calgen): A calendar generator.
 
-## Learning:
+### I'm currently learning:
 
 - Web development
 - Automating processes

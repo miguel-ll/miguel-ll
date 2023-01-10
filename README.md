@@ -1,6 +1,6 @@
 ### I'm Miguel, and welcome to my profile.
 
-I'm a game developer, translator, and Computer Engineering student. In my free time, I like to play chess and draw. You can find me at:
+I'm a Computer Engineering student, translator, and game developer. In my free time, I like to play chess and draw. You can find me at:
  
 - Website: [Miguel's webpage](https://deltazeta.neocities.org)
 - Itch.io: [deltazeta](https://deltazeta.itch.io)

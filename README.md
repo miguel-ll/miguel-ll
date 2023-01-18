@@ -1,6 +1,6 @@
 ### Welcome to my profile.
 
-I'm a Miguel, a Computer Engineering student, translator, and game developer. You can find me at:
+I'm Miguel, a Computer Engineering student, translator, and game developer. You can find me at:
  
 - Website: [Miguel's webpage](https://deltazeta.neocities.org)
 - Itch.io: [deltazeta](https://deltazeta.itch.io)
